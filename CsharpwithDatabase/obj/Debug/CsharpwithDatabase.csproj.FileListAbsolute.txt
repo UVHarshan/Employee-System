@@ -1,0 +1,11 @@
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\bin\Debug\CsharpwithDatabase.exe.config
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\bin\Debug\CsharpwithDatabase.exe
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\bin\Debug\CsharpwithDatabase.pdb
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\obj\Debug\CsharpwithDatabase.csprojAssemblyReference.cache
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\obj\Debug\CsharpwithDatabase.Form1.resources
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\obj\Debug\CsharpwithDatabase.Properties.Resources.resources
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\obj\Debug\CsharpwithDatabase.csproj.GenerateResource.cache
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\obj\Debug\CsharpwithDatabase.csproj.CoreCompileInputs.cache
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\obj\Debug\CsharpwithDatabase.exe
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\obj\Debug\CsharpwithDatabase.pdb
+E:\Online Courses\Udemy\C# Course\CsharpwithDatabase\CsharpwithDatabase\obj\Debug\CsharpwithDatabase.Dashboard.resources
